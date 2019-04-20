@@ -52,6 +52,10 @@ hr{
   background-color: #66BFBF;
 }
 
+.mountain-img{
+  width: 50%;
+}
+
 .code-img{
   width: 25%;
   float: left;
