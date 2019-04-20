@@ -48,16 +48,20 @@ hr{
   margin: 100px auto;
 }
 
+.navbar{
+  background-color: #66BFBF;
+}
+
 .code-img{
   width: 25%;
   float: left;
-  margin-right: 5%;
+  margin-right: 30px;
 }
 
 .pancake-img{
   width: 25%;
   float: right;
-  margin-left: 5%;
+  margin-left: 30px;
 }
 
 .skill-row{
