@@ -52,6 +52,14 @@ hr{
   background-color: #66BFBF;
 }
 
+.name{
+  font-size: 450%;
+}
+
+.desc{
+  font-size: 250%;
+}
+
 .mountain-img{
   width: 50%;
 }
