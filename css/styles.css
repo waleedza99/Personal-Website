@@ -8,7 +8,7 @@ body{
 
 h1{
   font-family: 'Leckerli One', cursive;
-  font-size: 3.625rem;
+  font-size: 3.5rem;
   margin: 50px auto 20px auto;
   color: #66BFBF;
 }
@@ -71,7 +71,7 @@ hr{
 }
 
 .pancake-img{
-  width: 25%;
+  width: 20%;
   float: right;
   margin-left: 1.875rem;
 }
