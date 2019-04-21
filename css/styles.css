@@ -71,7 +71,7 @@ hr{
 .skill-row{
   width: 50%;
   margin: 100px auto 100px auto;
-  text-align: justify;
+  text-align: left;
 }
 
 .top-container{
@@ -108,12 +108,14 @@ hr{
 }
 
 .top-cloud{
+  width: 50%;
   position: absolute;
   top: 40px;
   right: 300px;
 }
 
 .bottom-cloud{
+  width: 50%;
   position: absolute;
   left: 250px;
   bottom: 300px;
