@@ -8,7 +8,7 @@ body{
 
 h1{
   font-family: 'Leckerli One', cursive;
-  font-size: 3.825rem;
+  font-size: 3.625rem;
   margin: 50px auto 20px auto;
   color: #66BFBF;
 }
@@ -16,7 +16,7 @@ h1{
 h2{
   font-weight: normal;
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   color: #66BFBF;
   padding-bottom: 10px;
 }
@@ -52,6 +52,14 @@ hr{
   background-color: #66BFBF;
 }
 
+.desc{
+  font-size: 1.25rem;
+}
+
+.profile-pic{
+  padding-bottom: 10px;
+}
+
 .mountain-img{
   width: 50%;
 }
@@ -59,13 +67,13 @@ hr{
 .code-img{
   width: 25%;
   float: left;
-  margin-right: 30px;
+  margin-right: 1.875rem;
 }
 
 .pancake-img{
   width: 25%;
   float: right;
-  margin-left: 30px;
+  margin-left: 1.875rem;
 }
 
 .skill-row{
@@ -98,7 +106,7 @@ hr{
 }
 
 .intro{
-  width: 30%;
+  width: 50%;
   margin: auto;
 }
 
