@@ -108,14 +108,14 @@ hr{
 }
 
 .top-cloud{
-  width: 50%;
+  width: 10.5%;
   position: absolute;
   top: 40px;
   right: 300px;
 }
 
 .bottom-cloud{
-  width: 50%;
+  width: 10.5%;
   position: absolute;
   left: 250px;
   bottom: 300px;
