@@ -27,6 +27,10 @@ h3 {
   color: #11999E;
 }
 
+i{
+  color: #11999E;
+}
+
 p {
   line-height: 2;
 }
@@ -163,40 +167,4 @@ a:hover {
   left: 0;
   width: 100%;
   height: 100%;
-}
-
-/* contact styles */
-
-.contact{
-  background-color: #ececec;
-  text-align: left;
-  padding-top: 30px;
-  padding-bottom: 50px;
-  margin-bottom: 60px;
-  margin-top: 35px;
-}
-
-.h3_contact{
-  padding-top: 18px;
-  padding-bottom: 18px;
-}
-
-.hr_contact{
-  margin-top: 0;
-}
-
-.para{
-  border-bottom: 2px solid #66BFBF;
-}
-
-.links{
-  margin: 0;
-  color: #49beb7;
-  font-family: 'Merriweather', serif;
-}
-
-.links:hover{
-  color: #11999E;
-  transition: none;
-  text-decoration: none;
 }
