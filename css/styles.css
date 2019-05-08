@@ -161,3 +161,22 @@ a:hover {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
+.row{
+  background-color: red;
+}
+
+.box1{
+  width: 550px;
+  height: 650px;
+  margin: auto auto auto auto;
+  background-color: #EAF6F6;
+  border: solid;
+  border-color: #66BFBF;
+  border-radius: 30px;
+
+}
+/* .nutridaili{
+  width: 120%;
+  height: 140%;
+} */
