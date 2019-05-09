@@ -43,7 +43,8 @@ a {
 }
 
 a:hover {
-  color: #EAF6F6;
+  color: #d65a31;
+  text-decoration: none;
 }
 
 .hr_index {
@@ -162,21 +163,30 @@ a:hover {
   text-decoration: none;
 }
 
-.row{
-  background-color: red;
-}
-
 .box1{
-  width: 550px;
-  height: 650px;
-  margin: auto auto auto auto;
-  background-color: #EAF6F6;
+  width: 90%;
+  margin: 20px auto 20px auto;
+  background-color: white;
   border: solid;
   border-color: #66BFBF;
   border-radius: 30px;
 
 }
-/* .nutridaili{
-  width: 120%;
-  height: 140%;
-} */
+.nutridaili{
+  width: 100%;
+  padding: 35px 35px 35px 35px;
+}
+.nutri_desc{
+  margin: auto 35px auto 35px;
+  text-align: justify;
+  padding-bottom: 20px;
+}
+
+.source_link{
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.fab:hover{
+  color: #30e3cb;
+}
