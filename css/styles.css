@@ -117,6 +117,10 @@ a:hover {
   margin: auto;
 }
 
+.contact-me{
+  padding-bottom: 70px;
+}
+
 .contact-message {
   width: 70%;
   margin: 20px auto 60px;
@@ -176,7 +180,30 @@ a:hover {
   width: 100%;
   padding: 35px 35px 35px 35px;
 }
-.nutri_desc{
+
+.android{
+  width: 80%;
+  padding: 35px 35px 35px 35px;
+}
+
+.mine{
+  width: 90%;
+  padding: 35px 35px 35px 35px;
+}
+
+.basic_desc{
+  margin: auto 35px auto 35px;
+  text-align: justify;
+  padding-bottom: 50px;
+}
+
+.bit_desc{
+  margin: auto 35px auto 35px;
+  text-align: justify;
+  padding-bottom: 35px;
+}
+
+.android_desc{
   margin: auto 35px auto 35px;
   text-align: justify;
   padding-bottom: 20px;
