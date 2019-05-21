@@ -178,8 +178,8 @@ a:hover {
 
 }
 .nutridaili{
-  width: 100%;
-  padding: 35px 35px 35px 35px;
+  width: 90%;
+  padding: 65px 35px 35px 35px;
 }
 
 .android{
@@ -201,6 +201,7 @@ a:hover {
 .source_link{
   font-weight: bold;
   padding-top: 2%;
+  margin-bottom: 0;
 }
 
 .fab:hover{
