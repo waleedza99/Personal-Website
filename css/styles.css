@@ -68,7 +68,9 @@ a:hover {
 }
 
 .profile-pic {
-  padding-bottom: 10px;
+  height: 25%;
+  width: 25%;
+  padding-bottom: 20px;
 }
 
 .mountain-img {
